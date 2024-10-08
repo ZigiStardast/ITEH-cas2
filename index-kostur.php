@@ -11,12 +11,12 @@
         <div class="main-div">
             <form method="POST" action="#">
                 <div class="container">
-                    <label class="username">Korisnicko ime</label>
+                    <label class="username">Username</label>
                     <input type="text" name="username" class="form-control"  required>
                     <br>
-                    <label for="password">Lozinka</label>
+                    <label for="password">Password</label>
                     <input type="password" name="password" class="form-control" required>
-                    <button type="submit" class="btn btn-primary" name="submit">Prijavi se</button>
+                    <button type="submit" class="btn btn-primary" name="submit">Log In</button>
                 </div>
 
             </form>
